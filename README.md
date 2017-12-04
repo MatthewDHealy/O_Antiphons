@@ -1,5 +1,3 @@
-# Presentation
-My View of Bioinformatics
+# Great O Antiphons
 
-At the moment this repository will have just one document, a presentation I recently gave
-that summarizes my views of the field.
+Just one file, a PDF document with the traditional Advent antiphons in Latin and English, laid out as a single page suitable for liturgical usage.
